@@ -1,4 +1,4 @@
--👋 Hello! I am Moses from La Paz. University student and self-taught software development.
+-👋 Hello! I am Moises from La Paz. University student and self-taught software development.
 
 -I like to program and solve math exercises, I like to read about finances, biographies and play video games.
 
